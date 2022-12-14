@@ -1,0 +1,32 @@
+html {
+  background-color: #1f1e33;
+  color: #c0ffee;
+}
+h1 {
+  font-size: 300%;
+  height: 100px;
+  text-align: center;
+  font-variant: small-caps;
+}
+
+nav {
+  height: 100px;
+  width: 25%;
+  text-align: center;
+  font-size: 25px;
+  background-color: aliceblue;
+  float: left;
+}
+
+a {
+  background-color: #c0c0c0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+details {
+  font-family: "Courier New", Courier, monospace;
+  font-style: italic;
+}
+summary {
+  font-size: 150%;
+}
